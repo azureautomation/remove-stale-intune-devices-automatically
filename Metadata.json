@@ -1,0 +1,20 @@
+{
+    "Author": "Jos Lieben",
+    "ContentSize": 12157,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/remove-stale-intune-devices-automatically/master/Remove-StaleIntuneDevicesForAzureAutomation.ps1",
+    "DownloadCount": 1189,
+    "Id": "Remove-Stale-Intune-4b07488a",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 213,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-4-10T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script will automatically remove stale intune devices for you based on a configurable number of days the device was not active.Note that the script uses a beta / unsupported Intune Graph API endpoint and method to retrieve a token.You need to create a Credential Object in yo",
+    "Title": "Remove Stale Intune Devices Automatically",
+    "UpdatedDate": "2018-4-11T00:00:00",
+    "Url": "https://github.com/azureautomation/remove-stale-intune-devices-automatically",
+    "UserTags": "Monitoring, Change Control, Remediation"
+}
